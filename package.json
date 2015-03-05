@@ -2,7 +2,8 @@
   "name": "atom-nonmem",
   "version": "0.0.1",
   "description": "nonmem snippets and syntax highlighting",
+  "repository": "https://github.com/dpastoor/atom-nonmem",
   "engines": {
-    "atom": "*"
+    "atom": ">0.50.0"
   }
 }
