@@ -1,0 +1,8 @@
+{
+  "name": "atom-nonmem",
+  "version": "0.0.1",
+  "description": "nonmem snippets and syntax highlighting",
+  "engines": {
+    "atom": "*"
+  }
+}
