@@ -1,0 +1,12 @@
+'.source.nm7':
+  'documentation':
+    'prefix': 'docs'
+    'body': """
+      ;; 1. Based on: $1
+      ;; 2. Description: $2
+      ;; 3. Label: $3
+      ;; x1. Author: $4
+      ;; NOTES:
+      ;; $5
+      ;; ENDNOTES
+    """
