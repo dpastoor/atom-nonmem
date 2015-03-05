@@ -5,6 +5,15 @@ A package for managing nonmem through the atom editor.
 
 Atom is a cross-platform, free, open-source editor, hackable editor making it ideal for working with files and adding functionality to a typical workflow.
 
+# Installation
+
+```
+apm install atom-nonmem
+```
+
+or by installing from the package manager inside atom itself
+
+
 # Core functionality
 Some immediate workflow enhancements provided by atom-nonmem are:
 
