@@ -1,7 +1,7 @@
 '.source.nm7':
   'simulation':
-    'prefix': 'sim'
+    'prefix': 'ssim'
     'body': "$SIM (${1:1234567}) ONLYSIM"
   'simulation with nsub':
-    'prefix': 'simn'
+    'prefix': 'ssimn'
     'body': "$SIM (${1:1234567}) ONLYSIM NSUB = ${2:500}"
