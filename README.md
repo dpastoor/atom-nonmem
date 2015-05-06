@@ -29,6 +29,6 @@ Some immediate workflow enhancements provided by atom-nonmem are:
 
 ## Snippet example
 
-By typing `simn` then pressing `tab`, the statement
+By typing `ssimn` then pressing `tab`, the statement
 
 `$SIM () ONLYSIM NSUB = ` will be added with the cursor placed between the `()` to quickly type in a random seed then by pressing `tab` it will take you to past the `=` to insert the number of NSUBs you would like.
